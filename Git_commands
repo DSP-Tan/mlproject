@@ -1,0 +1,12 @@
+# Set name to Daniel Tanner
+git config --global user.name "Daniel Tanner"
+
+# Check name:
+git config user.name
+git config --gloab --get user.name
+
+# Set email
+git config --global user.email "danielsptanner@gmail.com"
+# Check
+git config user.email
+git config --glbal --get user.email

@@ -1,0 +1,3 @@
+If git push heroku master hangs, do this:
+
+heroku git:remote -a <name>
